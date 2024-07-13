@@ -1,4 +1,4 @@
-<img src="https://github.com/Teja-uvce-25/Teja-uvce-25/blob/main/Github%20Logo.png" width="800" height="300">
+<img src="https://github.com/Teja-uvce-25/Teja-uvce-25/blob/main/Github%20Logo.png" width="800" height="350">
 
 <!--
 **Teja-uvce-25/Teja-uvce-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
